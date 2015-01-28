@@ -23,6 +23,7 @@
  */
 
 #import "AOTask.h"
+#import "BTreeLogging.h"
 
 @implementation AOTask
 

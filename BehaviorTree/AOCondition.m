@@ -23,6 +23,7 @@
  */
 
 #import "AOCondition.h"
+#import "BTreeLogging.h"
 
 @implementation AOCondition
 

@@ -23,6 +23,7 @@
  */
 
 #import "AOComposite.h"
+#import "BTreeLogging.h"
 
 @implementation AOComposite
 
